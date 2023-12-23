@@ -6,13 +6,26 @@
     tools:context=".VideoFragment"
     android:background="#000000">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textColor="#EF3340"
-        android:textStyle="bold"
-        android:textSize="25sp"
-        android:gravity="center_horizontal"
-        android:text="Video" />
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Video"
+            android:textColor="#EF3340"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <VideoView
+            android:id="@+id/video_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
 
 </FrameLayout>
