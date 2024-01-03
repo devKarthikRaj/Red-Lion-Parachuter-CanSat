@@ -1,2 +1,2 @@
 # Red-Lion-Parachuter-CanSat
-This repo contains all the code used in the Red Lion Parachuter CanSat prototype.
+The aim of this project is to design a fly-back CanSat with real time telemetry capable of logging data through a mobile phone placed onboard the CanSat and also record camera footage. A CanSat has the form factor of a soda can and is a sub-orbital simulation of a real satellite. The fly-back component of the CanSat will ensure that it will fly back to the launch site. To honour the Red Lion parachuters who perform annually at the national day parade in Singapore, the exterior of this CanSat will be themed like a Red Lion parachuter.
