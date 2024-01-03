@@ -13,5 +13,5 @@ The aim of this project is to design a fly-back CanSat with real time telemetry 
 ![CanCom v1](https://github.com/devKarthikRaj/Red-Lion-Parachuter-CanSat/assets/52725875/d71fdcc6-b1bd-43b9-aa40-a39fe1fb75a7) <br>
 
 ## CanApp (CanSat Mobile App for Android devices only)
-![CanApp_1](https://github.com/devKarthikRaj/Red-Lion-Parachuter-CanSat/assets/52725875/ae706335-670f-4b05-8ec3-852e7a885975)
-![CanApp_2](https://github.com/devKarthikRaj/Red-Lion-Parachuter-CanSat/assets/52725875/114d4462-4b83-4ed4-b226-d62cf92e905c)
+![CanApp_1](https://github.com/devKarthikRaj/Red-Lion-Parachuter-CanSat/assets/52725875/ae706335-670f-4b05-8ec3-852e7a885975 | width=500)
+![CanApp_2](https://github.com/devKarthikRaj/Red-Lion-Parachuter-CanSat/assets/52725875/114d4462-4b83-4ed4-b226-d62cf92e905c | width=500)
